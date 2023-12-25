@@ -62,7 +62,7 @@
   position: absolute;
   width: 52px;
   height: 18.6666666667px;
-  border-bottom: solid #222 2px;
+  border-bottom: solid #fff 2px;
   border-radius: 50%;
 }
 .lightrope li:last-child:after {

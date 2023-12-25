@@ -117,7 +117,7 @@
   -moz-transition: 0.4s;
   -moz-transform: translateX(-50%);
   border-radius: 100%;
-  background: radial-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0), rgba(0, 0, 0, 0));
+  background: #fff;
 }
 
 .letter-image:hover .animated-mail {
